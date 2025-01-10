@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Atividade do módulo 2 concluída.
 
 ## Getting Started
 
